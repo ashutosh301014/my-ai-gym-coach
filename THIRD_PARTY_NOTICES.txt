@@ -1,0 +1,5 @@
+This app bundles MediaPipe Tasks Vision 0.10.22-rc.20250304 and a MediaPipe pose landmarker model.
+MediaPipe project: https://github.com/google-ai-edge/mediapipe
+MediaPipe license: Apache-2.0; see https://github.com/google-ai-edge/mediapipe/blob/master/LICENSE
+The pose asset is from the supplied ai-gym-coach snapshot. No additional ownership or license to that asset is asserted here.
+Fonts DM Sans and Manrope load from Google Fonts.
